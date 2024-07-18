@@ -41,7 +41,7 @@ jobs:
           skip_deploy_on_missing_secrets: true
           app_location: /
           api_location: ""
-          output_location: dist/crewpro-app-initial_v1/browser
+          output_location: dist/crewpro-app-Initial_v1/browser
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
     runs-on: ubuntu-latest
