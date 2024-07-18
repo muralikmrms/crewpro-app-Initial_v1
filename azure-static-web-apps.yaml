@@ -1,4 +1,4 @@
 app_location: "/"
 api_location: ""
-output_location: "dist/crewpro-app-starup/browser"
+output_location: "dist/crewpro-app-initial_v1/browser"
 node_version: "20"
